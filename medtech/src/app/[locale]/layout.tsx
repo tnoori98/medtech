@@ -5,19 +5,21 @@ export function generateStaticParams() {
   return [{ locale: "en" }, { locale: "de" }, { locale: "ar" }];
 }
 
-export default function LocaleLayout({
+export default async function LocaleLayout({
   children,
   params,
 }: {
   children: React.ReactNode;
-  params: { locale: string };
+  params: Promise<{ locale: string }>;
 }) {
-  const dir = params.locale === "ar" ? "rtl" : "ltr";
+  const { locale } = await params; // ✅ Await the Promise
+
+  const dir = locale === "ar" ? "rtl" : "ltr";
 
   return (
-    <html lang={params.locale} dir={dir}>
+    <html lang={locale} dir={dir}>
       <body>
-        <Loader locale={params.locale}>{children}</Loader>
+        <Loader locale={locale}>{children}</Loader>
       </body>
     </html>
   );
