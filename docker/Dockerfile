@@ -3,6 +3,9 @@ FROM node:22
 
 WORKDIR /app
 
+# Install pnpm globally
+RUN npm install -g pnpm
+
 COPY medtech .
 
 RUN pnpm install
