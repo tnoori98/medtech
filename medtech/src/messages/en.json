@@ -1,0 +1,200 @@
+{
+  "team": {
+    "team": "Our Team",
+    "intro": "Science and technology working together. Combining medical physics expertise with modern software development to deliver devices you can trust",
+    "members": [
+      {
+        "name": "Dr. Nabaz Noori",
+        "role": "Head of Sales & Medical Physics",
+        "description": "PhD in Physics with deep expertise in medical technology. Responsible for product quality, certifications, and customer relations",
+        "image": "/images/nabaz.png"
+      },
+      {
+        "name": "Ing. Thomas Noori",
+        "role": "Technical Lead & Software Engineer",
+        "description": "Developer and technologist focusing on digital workflows and product innovation. Building modern solutions for reliable patient care.",
+        "image": "/images/me.png"
+      }
+    ]
+  },
+  "footer": {
+    "returnPolicy": [
+      {
+        "title": "Return Policy",
+        "description": "We stand behind our products with a comprehensive 30-day return policy. If you're not completely satisfied, simply return the item in its original condition. Our hassle-free return process includes free return shipping and full refunds processed within 48 hours of receiving the returned item."
+      }
+    ],
+    "productInformation": [
+      {
+        "title": "Product Information",
+        "description": "Our medical devices combine advanced technology with a practical, patient-focused design. Engineered with certified materials, it delivers exceptional accuracy, safety, and long-term reliability. Key features include precise monitoring capabilities, seamless integration into clinical workflows, and an intuitive interface designed for both healthcare professionals and support staff."
+      }
+    ],
+    "dataprotection": [
+      {
+        "title": "Data Protection",
+        "description": "When you visit this website, the hosting provider automatically stores information in server log files (IP address, date/time, requested page/file, amount of data transferred, browser type/version, operating system). This data is technically necessary to display the website and to ensure stability and security. The data is not combined with other data sources."
+      }
+    ],
+    "credits": [
+      {
+        "title": "Credits",
+        "description": "The MRI model was designed by Phillip Stephens. Source: https://sketchfab.com/3d-models/mri-machine-7878f152c2434026a7ebf84ce8bc791f License: CC Attribution: https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  "vision": {
+    "title": "Why choose us?",
+    "description": "We provide medical devices you can trust. Our products combine rigrous certifications with real-time availability. Together we are closing the gap between outdated tools and modern care. Our intention is to empower clinics to provide safer, faster and more reliable patient care."
+  },
+  "navbar": {
+    "title": "Products",
+    "languages": [
+      {
+        "lng": "Language",
+        "en": "English",
+        "ar": "Arabic",
+        "de": "German"
+      }
+    ],
+    "items": [
+      {
+        "subtitle": "Product Overview",
+        "description": "Browse all medical devices in our sortiment"
+      }
+    ],
+    "vision": [
+      {
+        "title": "About Us",
+        "team": "Our Team",
+        "vision": "Our Vision"
+      }
+    ]
+  },
+  "parallax": {
+    "title": "MedTechTrust - Physics and Engineering",
+    "slides": [
+      {
+        "desc": "ISO 13485 Certified Devices"
+      },
+      {
+        "desc": "Optimized for Clinical Workflows"
+      },
+      {
+        "desc": "Class I & II Medical Equipment"
+      },
+      {
+        "desc": "Streamlined Procurement Process"
+      },
+      {
+        "desc": "Fast Global Shipping Available"
+      }
+    ],
+    "productGrid": [
+      {
+        "title": "Real-Time Product Insights",
+        "subtitle": "Trusted Devices – compliance, stock and logistics",
+        "devices": [
+          {
+            "id": "ECG Monitor",
+            "name": "ECG Monitor",
+            "category": "Cardiology",
+            "compliance": "Compliance-ready",
+            "instock": "In stock",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2-4 days"
+          },
+          {
+            "id": "Blood Pressure Monitor",
+            "name": "Blood Pressure Monitor",
+            "category": "Vitals",
+            "compliance": "Compliance-ready",
+            "instock": "In stock",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2-4 days"
+          },
+          {
+            "id": "Pulse Oximeter",
+            "name": "Pulse Oximeter",
+            "category": "Respiratory",
+            "compliance": "Compliance-ready",
+            "instock": "In stock",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2-4 days"
+          },
+          {
+            "id": "Digital Thermometer",
+            "name": "Digital Thermometer",
+            "category": "Vitals",
+            "compliance": "Compliance-ready",
+            "instock": "In stock",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2-4 days"
+          },
+          {
+            "id": "Infusion Pump",
+            "name": "Infusion Pump",
+            "category": "IV Therapy",
+            "compliance": "Compliance-ready",
+            "instock": "In stock",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2-4 days"
+          },
+          {
+            "id": "Stethoscope",
+            "name": "Stethoscope",
+            "category": "Diagnostics",
+            "compliance": "Compliance-ready",
+            "instock": "In stock",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2-4 days"
+          }
+        ]
+      }
+    ]
+  },
+  "seo": {
+    "home": {
+      "title": "MedTech Trust",
+      "brand": "medtechtrust",
+      "alt": "MedTech Trust Medical Devices",
+      "description": "Medical Devices."
+    }
+  },
+  "dataprotection": {
+  "title": "Privacy Policy",
+  "intro": "This information explains which personal data is processed on this website.",
+  "sections": [
+    {
+      "id": "collection",
+      "title": "Collection of Data",
+      "paragraphs": [
+        "When you visit this website, the hosting provider automatically stores information in server log files (IP address, date/time, requested page/file, amount of data transferred, browser type/version, operating system).",
+        "This data is technically necessary to display the website and to ensure stability and security. The data is not combined with other data sources."
+      ]
+    },
+    {
+      "id": "cookies",
+      "title": "Cookies / Tracking",
+      "paragraphs": [
+        "No cookies are set and no tracking tools are used."
+      ]
+    },
+    {
+      "id": "contact",
+      "title": "Contact",
+      "paragraphs": [
+        "If you contact me by e-mail, your details will be stored for the purpose of processing the inquiry. The data will not be passed on to third parties.",
+        "The contact details of the Data Controller can be found below."
+      ]
+    }
+  ],
+  "lastUpdated": "Last updated on: 12/09/2025"
+}
+}

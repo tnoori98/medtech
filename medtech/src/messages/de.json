@@ -1,0 +1,200 @@
+{
+  "team": {
+    "team": "Unser Team",
+    "intro": "Wissenschaft und Technologie Hand in Hand. Kombination aus Expertise in medizinischer Physik und moderner Softwareentwicklung, um Geräte zu liefern, denen Sie vertrauen können",
+    "members": [
+      {
+        "name": "Dr. Nabaz Noori",
+        "role": "Leiter Vertrieb & Medizinische Physik",
+        "description": "Doktor der Physik mit fundierter Expertise in Medizintechnologie. Verantwortlich für Produktqualität, Zertifizierungen und Kundenbeziehungen",
+        "image": "/images/nabaz.png"
+      },
+      {
+        "name": "Ing. Thomas Noori",
+        "role": "Technischer Leiter & Softwareentwickler",
+        "description": "Entwickler und Technologe mit Schwerpunkt auf digitale Workflows und Produktinnovation. Baut moderne Lösungen für eine sichere und zuverlässige Patientenversorgung",
+        "image": "/images/me.png"
+      }
+    ]
+  },
+  "footer": {
+  "returnPolicy": [
+    {
+      "title": "Rückgaberecht",
+      "description": "Wir stehen hinter unseren Produkten mit einem umfassenden 30-tägigen Rückgaberecht. Wenn Sie nicht vollständig zufrieden sind, senden Sie den Artikel einfach in seinem Originalzustand zurück. Unser unkomplizierter Rückgabeprozess umfasst kostenlosen Rückversand und eine vollständige Rückerstattung innerhalb von 48 Stunden nach Erhalt der Rücksendung."
+    }
+    ],
+    "productInformation": [
+      {
+        "title": "Produktinformationen",
+        "description": "Unsere medizinischen Geräte vereinen modernste Technologie mit einem praktischen, patientenorientierten Design. Gefertigt aus zertifizierten Materialien bieten sie höchste Genauigkeit, Sicherheit und langfristige Zuverlässigkeit. Zu den wichtigsten Funktionen gehören präzise Überwachungsmöglichkeiten, nahtlose Integration in klinische Arbeitsabläufe und eine intuitive Benutzeroberfläche für medizinisches Fachpersonal und Unterstützungspersonal."
+      }
+    ],
+    "dataprotection": [
+      {
+        "title": "Datenschutz",
+        "description": "Beim Besuch dieser Website speichert der Hosting-Provider automatisch Informationen in Server-Logdateien (IP-Adresse, Datum/Uhrzeit, aufgerufene Seite/Datei, übertragene Datenmenge, Browsertyp/-version, Betriebssystem). Diese Daten sind technisch erforderlich, um die Website anzuzeigen und Stabilität sowie Sicherheit zu gewährleisten. Die Daten werden nicht mit anderen Datenquellen zusammengeführt."
+      }
+    ],
+    "credits": [
+      {
+        "title": "Credits",
+        "description": "Das MRT-Modell wurde von Phillip Stephens entworfen. Quelle: https://sketchfab.com/3d-models/mri-machine-7878f152c2434026a7ebf84ce8bc791f Lizenz: CC Attribution: https://creativecommons.org/licenses/by/4.0/"
+      }
+    ]
+  },
+  "vision": {
+    "title": "Warum Sie uns wählen sollten",
+    "description": "Wir bieten medizinische Geräte, denen Sie vertrauen können. Unsere Produkte verbinden strenge Zertifizierungen mit sofortiger Verfügbarkeit. Gemeinsam schließen wir die Lücke zwischen veralteten Geräten und moderner Versorgung. Unser Ziel ist es, Kliniken zu befähigen, eine sicherere, schnellere und verlässlichere Patientenversorgung zu gewährleisten."
+  },
+  "navbar": {
+    "title": "Produkte",
+    "languages": [
+      {
+        "lng": "Sprache",
+        "en": "Englisch",
+        "ar": "Arabisch",
+        "de": "Deutsch"
+      }
+    ],
+    "items": [
+      {
+        "subtitle": "Produktübersicht",
+        "description": "Alle medizinischen Geräte in unserem Sortiment durchsuchen"
+      }
+    ],
+    "vision": [
+      {
+        "title": "Über Uns",
+        "team": "Unser Team",
+        "vision": "Unsere Vision"
+      }
+    ]
+  },
+  "parallax": {
+    "title": "MedTechTrust - Physik und Ingenieurwesen",
+    "slides": [
+      {
+        "desc": "ISO 13485 zertifizierte Geräte"
+      },
+      {
+        "desc": "Optimiert für klinische Arbeitsabläufe"
+      },
+      {
+        "desc": "Medizinische Geräte der Klassen I & II"
+      },
+      {
+        "desc": "Optimierter Beschaffungsprozess"
+      },
+      {
+        "desc": "Schneller weltweiter Versand verfügbar"
+      }
+    ],
+    "productGrid": [
+      {
+        "title": "Live-Produktübersicht",
+        "subtitle": "Vertrauenswürdige Geräte – Compliance, Bestand und Logistik",
+        "devices": [
+          {
+            "id": "ECG Monitor",
+            "name": "EKG-Monitor",
+            "category": "Kardiologie",
+            "compliance": "Konformitätsbereit",
+            "instock": "Auf Lager",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2–4 Tage"
+          },
+          {
+            "id": "Blood Pressure Monitor",
+            "name": "Blutdruckmessgerät",
+            "category": "Vitalparameter",
+            "compliance": "Konformitätsbereit",
+            "instock": "Auf Lager",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2–4 Tage"
+          },
+          {
+            "id": "Pulse Oximeter",
+            "name": "Pulsoximeter",
+            "category": "Atmung",
+            "compliance": "Konformitätsbereit",
+            "instock": "Auf Lager",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2–4 Tage"
+          },
+          {
+            "id": "Digital Thermometer",
+            "name": "Digitales Thermometer",
+            "category": "Vitalparameter",
+            "compliance": "Konformitätsbereit",
+            "instock": "Auf Lager",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2–4 Tage"
+          },
+          {
+            "id": "Infusion Pump",
+            "name": "Infusionspumpe",
+            "category": "IV-Therapie",
+            "compliance": "Konformitätsbereit",
+            "instock": "Auf Lager",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2–4 Tage"
+          },
+          {
+            "id": "Stethoscope",
+            "name": "Stethoskop",
+            "category": "Diagnostik",
+            "compliance": "Konformitätsbereit",
+            "instock": "Auf Lager",
+            "certs": "ISO 13485",
+            "stock": "50",
+            "delivery": "2–4 Tage"
+          }
+        ]
+      }
+    ]
+  },
+  "seo": {
+    "home": {
+      "title": "MedTech Trust",
+      "brand": "medtechtrust",
+      "alt": "MedTech Trust Medizinische Geräte",
+      "description": "Medizinische Geräte."
+    }
+  },
+  "dataprotection": {
+    "title": "Datenschutzerklärung",
+    "intro": "Diese Informationen erklären, welche personenbezogenen Daten auf dieser Website verarbeitet werden.",
+    "sections": [
+      {
+        "id": "collection",
+        "title": "Datenerhebung",
+        "paragraphs": [
+          "Wenn Sie diese Website besuchen, speichert der Hosting-Anbieter automatisch Informationen in Server-Logfiles (IP-Adresse, Datum/Uhrzeit, angeforderte Seite/Datei, übertragene Datenmenge, Browsertyp/-version, Betriebssystem).",
+          "Diese Daten sind technisch erforderlich, um die Website anzuzeigen und Stabilität sowie Sicherheit zu gewährleisten. Die Daten werden nicht mit anderen Datenquellen zusammengeführt."
+        ]
+      },
+      {
+        "id": "cookies",
+        "title": "Cookies / Tracking",
+        "paragraphs": [
+          "Es werden keine Cookies gesetzt und keine Tracking-Tools verwendet."
+        ]
+      },
+      {
+        "id": "contact",
+        "title": "Kontakt",
+        "paragraphs": [
+          "Wenn Sie mich per E-Mail kontaktieren, werden Ihre Angaben zum Zweck der Bearbeitung der Anfrage gespeichert. Die Daten werden nicht an Dritte weitergegeben.",
+          "Die Kontaktdaten des Verantwortlichen finden Sie unten."
+        ]
+      }
+    ],
+    "lastUpdated": "Zuletzt aktualisiert am: 12.09.2025"
+  }
+}
