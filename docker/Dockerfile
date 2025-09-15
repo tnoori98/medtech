@@ -5,8 +5,8 @@ WORKDIR /app
 
 COPY medtech .
 
-RUN npm install
-RUN npm run build
+RUN pnpm install
+RUN pnpm build
 
 ENV HOST=0.0.0.0
 EXPOSE 3000
